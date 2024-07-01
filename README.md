@@ -1,3 +1,3 @@
 # workExperienceHackathon
 
-team Mentor : Erica Neilson
+Team Mentor : Erica Neilson
