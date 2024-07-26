@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 async function getRandomPokemon() {
     try {
-        const response = await fetch('https://pokeapi.co/api/v2/pokemon');
+        const response = await fetch('https://perenual.com/api/species-list?key=sk-P4V166a3644f6f2186337');
         if (!response.ok) {
             throw new Error('Failed to fetch random Pokémon');
         }
